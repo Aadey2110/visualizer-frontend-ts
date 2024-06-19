@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/visiualizer_frontend/static/css/main.e2a01f96.css",
+    "main.js": "/visiualizer_frontend/static/js/main.570644fd.js",
+    "index.html": "/visiualizer_frontend/index.html",
+    "main.e2a01f96.css.map": "/visiualizer_frontend/static/css/main.e2a01f96.css.map",
+    "main.570644fd.js.map": "/visiualizer_frontend/static/js/main.570644fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2a01f96.css",
+    "static/js/main.570644fd.js"
+  ]
+}
